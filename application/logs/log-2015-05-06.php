@@ -24,3 +24,5 @@ ERROR - 06-05-2015 16:18:18 --> Severity: Error --> Call to a member function lo
 ERROR - 06-05-2015 16:19:28 --> Severity: Notice --> Undefined property: VerifyLogin::$user C:\xampp\htdocs\maelstrom\application\controllers\VerifyLogin.php 34
 ERROR - 06-05-2015 16:19:28 --> Severity: Error --> Call to a member function login() on null C:\xampp\htdocs\maelstrom\application\controllers\VerifyLogin.php 34
 ERROR - 06-05-2015 16:27:44 --> 404 Page Not Found: logout
+ERROR - 06-05-2015 16:55:01 --> 404 Page Not Found: Css/admin.css
+ERROR - 06-05-2015 16:56:33 --> 404 Page Not Found: Css/admin.css

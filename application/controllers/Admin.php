@@ -16,6 +16,7 @@ class Admin extends CI_Controller
             $data['title'] = ucfirst($page);
 
             $this->load->view('templates/admin_header', $data);
+            $this->load->view('templates/admin_menu', $data);
             $this->load->view('admin/' . $page, $data);
             $this->load->view('templates/admin_footer', $data);
         } else {
